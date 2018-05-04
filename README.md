@@ -1,4 +1,4 @@
-#A Star Algorithm
+# A Star Algorithm
 
 This is an academic project developed for the course of Discrete Optimization taken in UAB (Universitat Autònoma de Barcelona) as part of the third semester in Mathmods program.
 
